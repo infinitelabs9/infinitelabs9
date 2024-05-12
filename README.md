@@ -1,16 +1,36 @@
-### Hi there 👋
+# Proyecto XYZ - Plataforma de Redes Sociales
 
-<!--
-**infinitelabs9/infinitelabs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Breve descripción del proyecto.
 
-Here are some ideas to get you started:
+## Contenido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Perfil de Usuario](#perfil-de-usuario)
+- [Botones Tecnológicos](#botones-tecnológicos)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+
+## Perfil de Usuario
+
+![Miniatura de Perfil](enlace_a_miniatura.jpg) ![Perfil Completo](enlace_a_perfil_completo.jpg)
+
+Descripción del perfil de usuario y su interacción con la plataforma.
+
+## Botones Tecnológicos
+
+- [![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org/)
+- [![Node.js](https://img.shields.io/badge/-Node.js-green)](https://nodejs.org/)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-yellow)](https://www.mongodb.com/)
+
+Botones tecnológicos que muestran las tecnologías utilizadas en el proyecto.
+
+## Descripción del Proyecto
+
+Breve descripción del proyecto, sus objetivos y funcionalidades principales.
+
+## Tecnologías Utilizadas
+
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+
+Lista de las tecnologías utilizadas en el proyecto.
